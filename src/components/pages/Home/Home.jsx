@@ -13,7 +13,7 @@ const Home = () => {
   
         <TextContainer>
           <Text>
-            If you have already registered, than you should{' '}
+            If you have already registered, you should{' '}
             <TextSpan>authorize</TextSpan>. If you don't have your account, you
             should firstly <TextSpan>register</TextSpan>.
           </Text>

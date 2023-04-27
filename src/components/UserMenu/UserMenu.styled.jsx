@@ -9,31 +9,30 @@ export const UserBtn = styled.button`
   padding: 8px 16px;
   font-weight: 600;
   font-size: 24px;
-  color: black;
+  font-family: inherit;
+  color: #2a2a2a;
   text-decoration: none;
   background-color: transparent;
   border: none;
+  border-radius: 3px;
   cursor:pointer;
   &.active {
     color: white;
-    // background: rgb(38, 38, 39);
     background: #4ec6ef;
   }
   :hover:not(.active),
   :focus-visible:not(.active) {
-    // background: rgb(38, 38, 39);
     background: #4ec6ef;
   }
 `;
 export const UserText = styled.span`
   font-weight: 600;
   font-size: 24px;
-  color: black;
+  color: #2a2a2a;
 `;
 export const UserName = styled.span`
   font-weight: 600;
   font-size: 24px;
   color: #4ec6ef;
-  text-transform: uppercase;
   margin-right: 25px;
 `;

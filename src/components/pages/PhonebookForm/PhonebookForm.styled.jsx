@@ -12,6 +12,7 @@ export const PhoneBook = styled.h1`
   margin: 0;
   margin-bottom: 20px;
   text-transform: uppercase;
+  padding: 20px 0px;
 `;
 
 export const ContactsTitle = styled.h2`
@@ -30,6 +31,5 @@ export const EmptyPhonebook = styled.div`
   text-transform: uppercase;
 `;
 export const Container = styled.div`
-  margin-top: 30px;
   padding-bottom: 30px;
 `;

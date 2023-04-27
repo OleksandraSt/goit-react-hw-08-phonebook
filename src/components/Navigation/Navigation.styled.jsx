@@ -4,10 +4,10 @@ import { NavLink } from 'react-router-dom';
 export const UserMenuNavigate = styled(NavLink)`
   margin-right: 30px;
   padding: 8px 16px;
-  border-radius: 4px;
+  border-radius: 3px;
   font-weight: 600;
   font-size: 24px;
-  color: #212121;
+  color: #2a2a2a;
   text-decoration: none;
   &.active {
     color: white;

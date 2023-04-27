@@ -8,6 +8,7 @@ export const Form = styled.form`
   margin-right: auto;
   margin-bottom: 40px;
   background-color: #e4eba1;
+  padding-top: 20px;
 `;
 
 export const Label = styled.label`
