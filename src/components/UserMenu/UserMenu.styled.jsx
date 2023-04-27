@@ -16,11 +16,13 @@ export const UserBtn = styled.button`
   cursor:pointer;
   &.active {
     color: white;
-    background: rgb(38, 38, 39);
+    // background: rgb(38, 38, 39);
+    background: #4ec6ef;
   }
   :hover:not(.active),
   :focus-visible:not(.active) {
-    background: rgb(38, 38, 39);
+    // background: rgb(38, 38, 39);
+    background: #4ec6ef;
   }
 `;
 export const UserText = styled.span`

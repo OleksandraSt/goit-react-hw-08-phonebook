@@ -27,4 +27,5 @@ export const RegisterBtn = styled.button`
   text-transform: uppercase;
   color: #fff;
   border: none;
+  cursor: pointer;
 `;

@@ -11,10 +11,10 @@ export const UserMenuNavigate = styled(NavLink)`
   text-decoration: none;
   &.active {
     color: white;
-    background: rgb(38, 38, 39);
+    background: #4ec6ef;
   }
   :hover:not(.active),
   :focus-visible:not(.active) {
-    background: rgb(38, 38, 39);
+    background: #4ec6ef;
   }
 `;

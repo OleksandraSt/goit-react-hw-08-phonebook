@@ -10,8 +10,8 @@ margin:0;
 margin-top:150px;
 text-transform:uppercase;
 font-size:75px;
-color:rgb(250,184,2);
-    text-align: center;
+color:#4ec6ef;
+text-align: center;
 `
 
 export const TextContainer = styled.div`
@@ -27,5 +27,5 @@ export const Text = styled.p`
 `
             
 export const TextSpan = styled.span`
-    color: rgb(250,184,2);
+    color: #4ec6ef;
 `

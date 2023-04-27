@@ -5,7 +5,6 @@ export const Loader = () => {
       <InfinitySpin
       width='200'
       color="#4fa94d"
-    //   wrapperStyle={{ justifyContent: 'center', marginTop: '60px' }}
       />
     );
   };
