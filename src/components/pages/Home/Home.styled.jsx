@@ -5,7 +5,7 @@ padding: 60px 20px;
 `
 
 export const HomeTitle = styled.div`
-margin:0;
+margin:0 auto 40px auto;
 margin-top:45px;
 text-transform:uppercase;
 font-size:65px;
@@ -17,13 +17,11 @@ width: 900px;
 export const TextContainer = styled.div`
 font-size:36px;
 text-align:center;
-    width: 980px;
-    display: contents;
+display: contents;
 `
 
 export const Text = styled.p`
     margin: 0;
-    margin-top: 50px;
 `
             
 export const TextSpan = styled.span`
